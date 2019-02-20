@@ -11,7 +11,7 @@ ms.locfileid: "53402897"
 ---
 # <a name="powershell"></a>PowerShell
 
-PowerShell es un shell de línea de comandos y un lenguaje de scripting basado en tareas integrado en .NET.
+PowerShell es un shell (interfaz de usuario) de línea de comandos y un lenguaje de scripting basado en tareas integrado en .NET.
 PowerShell ayuda a los administradores de sistemas y a los usuarios avanzados a automatizar rápidamente las tareas que administran sistemas operativos (Linux, macOS y Windows) y procesos.
 
 Los comandos de PowerShell permiten administrar los equipos desde la línea de comandos. Los proveedores de PowerShell permiten obtener acceso a almacenes de datos, como el Registro y el almacén de certificados, con la misma simplicidad con que se obtiene acceso al sistema de archivos. PowerShell incluye un analizador de expresiones muy completo y un lenguaje de scripting totalmente desarrollado.
